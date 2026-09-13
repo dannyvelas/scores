@@ -19,7 +19,7 @@ guitarMusic = {
   \U <e e' fis'>4^\downStrum \U <e e' gis'>8^\downStrum [ \U <e' gis' b' e'' gis''>8^\upStrum ] \U <e' gis' b' e'' gis''>8\p^\downStrum [ \U <e' a' b' e'' gis''>8\mf^\upStrum ] \U <e e' a'>8^\downStrum [ \U <e e' gis'>8^\upStrum ] | % 4
   \U <e e' fis'>4^\downStrum \U <e e' gis'>8^\downStrum [ \U <e' gis' b' e'' gis''>8^\upStrum ] \U <e' gis' b' e'' gis''>8\p^\downStrum [ \U <e' a' b' e'' gis''>8\mf^\upStrum ] \U <e e' a'>8^\downStrum [ \U <e e' gis'>8^\upStrum ] | % 5
   \U <e e' fis'>4^\downStrum \U <e e' gis'>8^\downStrum [ \U <e' gis' b' e'' gis''>8^\upStrum ] \U <e' gis' b' e'' gis''>8\p^\downStrum [ \U <fis fis' b' dis'' gis''>8\mf^\upStrum ] \U <fis fis' b' dis'' gis''>8^\downStrum [ \U <e e' a' cis'' e'' gis''>8^\upStrum ] | % 6
-  \U <e e' a' cis'' e'' gis''>8^\downStrum [ \U <e' a' cis'' e'' gis''>8^\upStrum ] \U <e e' a' cis'' e'' gis''>8^\downStrum [ \U <e' a' cis'' e'' gis''>8^\upStrum ] \U <e e' a' cis'' e'' gis''>8^\downStrum [ \U <e' a' cis'' e'' gis''>8^\upStrum ] \U <e e' a' cis'' e'' gis''>8^\downStrum [ \U <e' a' cis'' e'' gis''>8^\upStrum ] | % 7
+  \U <e e' a' cis'' e'' gis''>8^\downStrum [ \U <e' a' cis'' e'' gis''>8\p^\upStrum ] \U <e e' a' cis'' e'' gis''>8\mf^\downStrum [ \U <e' a' cis'' e'' gis''>8\p^\upStrum ] \U <e e' a' cis'' e'' gis''>8\mf^\downStrum [ \U <e' a' cis'' e'' gis''>8\p^\upStrum ] \U <e e' a' cis'' e'' gis''>8\mf^\downStrum [ \U <e' a' cis'' e'' gis''>8\p^\upStrum ] | % 7
 }
 
 \score {
