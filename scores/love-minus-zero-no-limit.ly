@@ -11,7 +11,7 @@ capoTuning = \stringTuning <e, cis fis b dis' gis'>
 guitarMusic = {
   \numericTimeSignature \time 4/4 \key e \major
   \mark \markup { \bold "Capo IV" }
-  \U <e e' gis'>4 \U <e e' gis'>8 \U <e' gis' b' e'' gis''>4 \U <e' a' b' e'' gis''>8 [ \U <e e' a'>8 \U <e e' gis'>8 ] | % 1
+  \U <e e' gis'>4 \U <e e' gis'>8 [ \U <e' gis' b' e'' gis''>8 ] \U <e' gis' b' e'' gis''>8 [ \U <e' a' b' e'' gis''>8 ] \U <e e' a'>8 [ \U <e e' gis'>8 ] | % 1
   \U <e e' fis'>4 \U <e e' gis'>8 \U <e' gis' b' e'' gis''>4 \U <e' a' b' e'' gis''>8 [ \U <e e' a'>8 \U <e e' gis'>8 ] | % 2
   \U <e e' fis'>4 \U <e e' gis'>8 \U <e' gis' b' e'' gis''>4 \U <e' a' b' e'' gis''>8 [ \U <e e' a'>8 \U <e e' gis'>8 ] | % 3
   \U <e e' fis'>4 \U <e e' gis'>8 \U <e' gis' b' e'' gis''>4 \U <e' a' b' e'' gis''>8 [ \U <e e' a'>8 \U <e e' gis'>8 ] | % 4
