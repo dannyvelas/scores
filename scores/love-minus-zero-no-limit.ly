@@ -11,6 +11,9 @@ trebleMusic = {
   r4 r8 \U <e' gis'>4 \U <e' gis'>8 r8 r8 | % 2
   r4 r8 \U <e' gis'>4 \U <e' gis'>8 r8 r8 | % 3
   r4 r8 \U <e' gis'>4 \U <e' gis'>8 r8 r8 | % 4
+  r4 r8 \U <e' gis'>4 \U <e' gis'>8 r8 r8 | % 5
+  r4 r8 \U <e' gis'>4 \U <dis' gis'>8 [ \U <dis' gis'>8 \U <cis' e' gis'>8 ] | % 6
+  \U <cis' e' gis'>8 [ \U <cis' e' gis'>8 \U <cis' e' gis'>8 \U <cis' e' gis'>8 ] \U <cis' e' gis'>8 [ \U <cis' e' gis'>8 ] r4 | % 7
 }
 
 bassMusic = {
@@ -19,6 +22,9 @@ bassMusic = {
   \U <e, e fis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 2
   \U <e, e fis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 3
   \U <e, e fis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 4
+  \U <e, e fis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 5
+  \U <e, e fis>4 \U <e, e gis>8 \U <e gis b>4 \U <fis, fis b>8 [ \U <fis, fis b>8 \U <e, e a>8 ] | % 6
+  \U <e, e a>8 [ \U <e a>8 \U <e, e a>8 \U <e a>8 ] \U <e, e a>8 [ \U <e a>8 ] r4 | % 7
 }
 
 \score {
