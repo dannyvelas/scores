@@ -16,9 +16,9 @@ trebleMusic = {
 bassMusic = {
   \clef "bass" \numericTimeSignature \time 4/4 \key c \major
   \U <e, e gis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 1
-  \U <e, e gis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 2
-  \U <e, e gis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 3
-  \U <e, e gis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 4
+  \U <e, e fis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 2
+  \U <e, e fis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 3
+  \U <e, e fis>4 \U <e, e gis>8 \U <e gis b>4 \U <e a b>8 [ \U <e, e a>8 \U <e, e gis>8 ] | % 4
 }
 
 \score {
