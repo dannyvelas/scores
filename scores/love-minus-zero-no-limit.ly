@@ -1,6 +1,3 @@
-clairnote-type = dn
-\include "clairnote.ly"
-
 \version "2.26.0"
 
 U = \tweak Stem.direction #UP \etc
